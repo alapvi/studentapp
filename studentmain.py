@@ -11,6 +11,7 @@ while True:
     print("5.- Exit")
     option = int(input("Choose option:"))
     if (option == 5):
+        print("Bye!!!!!")
         break
     elif (option == 1):
         print("Adding a new Student!")
